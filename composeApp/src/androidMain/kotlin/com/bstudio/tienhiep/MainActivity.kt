@@ -1,4 +1,4 @@
-package com.jetbrains.kmpapp
+package com.bstudio.tienhiep
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

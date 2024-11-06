@@ -1,12 +1,12 @@
-package com.jetbrains.kmpapp.di
+package com.bstudio.tienhiep.di
 
-import com.jetbrains.kmpapp.data.InMemoryMuseumStorage
-import com.jetbrains.kmpapp.data.KtorMuseumApi
-import com.jetbrains.kmpapp.data.MuseumApi
-import com.jetbrains.kmpapp.data.MuseumRepository
-import com.jetbrains.kmpapp.data.MuseumStorage
-import com.jetbrains.kmpapp.screens.detail.DetailViewModel
-import com.jetbrains.kmpapp.screens.list.ListViewModel
+import com.bstudio.tienhiep.data.InMemoryMuseumStorage
+import com.bstudio.tienhiep.data.KtorMuseumApi
+import com.bstudio.tienhiep.data.MuseumApi
+import com.bstudio.tienhiep.data.MuseumRepository
+import com.bstudio.tienhiep.data.MuseumStorage
+import com.bstudio.tienhiep.presentation.screens.detail.DetailViewModel
+import com.bstudio.tienhiep.presentation.screens.list.ListViewModel
 import io.ktor.client.HttpClient
 import io.ktor.client.plugins.contentnegotiation.ContentNegotiation
 import io.ktor.http.ContentType

@@ -1,7 +1,7 @@
-package com.jetbrains.kmpapp
+package com.bstudio.tienhiep
 
 import android.app.Application
-import com.jetbrains.kmpapp.di.initKoin
+import com.bstudio.tienhiep.di.initKoin
 
 class MuseumApp : Application() {
     override fun onCreate() {

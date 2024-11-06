@@ -1,4 +1,4 @@
-package com.jetbrains.kmpapp.screens
+package com.bstudio.tienhiep.presentation.screens
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.material.Text
