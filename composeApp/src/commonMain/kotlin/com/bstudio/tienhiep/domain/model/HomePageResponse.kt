@@ -1,4 +1,4 @@
-package com.bstudio.tienhiep.data.model
+package com.bstudio.tienhiep.domain.model
 
 data class HomePageResponse(
     val data: String,

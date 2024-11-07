@@ -1,9 +1,9 @@
 package com.bstudio.tienhiep.domain
 
-import com.bstudio.tienhiep.data.model.BookDetailModel
-import com.bstudio.tienhiep.data.model.BookItem
-import com.bstudio.tienhiep.data.model.ChapterDetailModel
-import com.bstudio.tienhiep.data.model.HomePageResponse
+import com.bstudio.tienhiep.domain.model.BookDetailModel
+import com.bstudio.tienhiep.domain.model.BookItem
+import com.bstudio.tienhiep.domain.model.ChapterDetailModel
+import com.bstudio.tienhiep.domain.model.HomePageResponse
 
 
 interface BookRepository {

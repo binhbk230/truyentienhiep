@@ -1,11 +1,11 @@
-package com.bstudio.tienhiep.data.model
+package com.bstudio.tienhiep.domain.model
 
 data class BookItem(
     val bookName: String?,
     val bookLink: String?,
     val bookIcon: String?,
     val bookView: String?,
-    val bookIntro: String?,
     val score: String?,
-    val totalChap: Int?,
+    val bookIntro: String? = null,
+    val totalChap: Int? = 0,
 )
